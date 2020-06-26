@@ -1,0 +1,37 @@
+{
+  "name": "todolist-typescript",
+  "version": "1.0.0",
+  "description": "Drag and drop to-do list ",
+  "keywords": [
+    "react-beautiful-dnd",
+    "typescript",
+    "styled-components",
+    "usereducer"
+  ],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "react": "16.13.1",
+    "react-beautiful-dnd": "13.0.0",
+    "react-dom": "16.13.1",
+    "react-scripts": "3.4.1",
+    "shortid": "2.2.15",
+    "styled-components": "5.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "16.9.19",
+    "@types/react-dom": "16.9.5",
+    "typescript": "3.7.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
